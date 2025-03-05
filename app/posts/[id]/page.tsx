@@ -79,7 +79,7 @@ export default async function Post({ params }: { params: { id: string } }) {
                   topics={postData.topics}
                 />
 
-                <h1 className="text-3xl font-bold leading-tight mb-4">
+                <h1 className="text-5xl font-bold leading-tight mb-4">
                   {postData.title}
                 </h1>
 
