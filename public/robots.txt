@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Allow search engines to crawl the blog content
+Allow: /posts/
+Allow: /categories/
+Allow: /tags/
+
+# Sitemap location
+Sitemap: https://blog.elandrivetestrental.ca/sitemap.xml
+
+# Crawl delay to prevent server overload
+Crawl-delay: 10
