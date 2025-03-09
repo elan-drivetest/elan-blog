@@ -4,6 +4,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Header from "./components/wrappers/Header";
 import Footer from "./components/wrappers/Footer";
+import Head from "next/head";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -42,6 +43,12 @@ export const metadata: Metadata = {
   },
   viewport: "width=device-width, initial-scale=1",
   themeColor: "#009D6C",
+  verification: {
+    google: "mOBvh3tt9kHEuSkqHL3c4t2X31zJQDGeRn7tCRZ7vTc",
+    other: {
+      "msvalidate.01": "33D263AD066DC0AC93AE53D66D266BB4",
+    },
+  },
   category: "blog",
 };
 
@@ -52,6 +59,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <Head>
+        <meta name="google-site-verification" content="mOBvh3tt9kHEuSkqHL3c4t2X31zJQDGeRn7tCRZ7vTc" />
+        <meta name="msvalidate.01" content="33D263AD066DC0AC93AE53D66D266BB4" />
+      </Head>
       <body className={`${inter.className} flex flex-col min-h-screen`}>
         <Header />
         <main className="flex-grow">{children}</main>
