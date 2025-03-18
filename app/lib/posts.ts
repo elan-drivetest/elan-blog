@@ -17,6 +17,7 @@ export interface PostData {
   contentHtml: string;
   categories: string[];
   topics: string[];
+  keywords?: string[];
 }
 
 export async function getSortedPostsData(): Promise<PostData[]> {

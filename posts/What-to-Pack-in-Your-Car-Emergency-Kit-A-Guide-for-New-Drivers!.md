@@ -3,6 +3,28 @@ title: "What to Pack in Your Car Emergency Kit: A Guide for New Drivers!"
 date: "2025-03-25"
 description: "As a new driver in Canada, being prepared for unexpected situations is just as important as knowing how to drive."
 ogImage: "/images/blog-4/image1.jpg"
+keywords: [
+  "car emergency kit", 
+  "new driver emergency supplies", 
+  "what to keep in car", 
+  "canada winter car kit", 
+  "roadside emergency items", 
+  "car safety kit checklist", 
+  "essential car items", 
+  "breakdown supplies car", 
+  "first aid kit car", 
+  "winter driving preparation", 
+  "car survival kit", 
+  "road safety kit", 
+  "jumper cables emergency", 
+  "tire repair kit", 
+  "seasonal car essentials", 
+  "canadian driver preparedness", 
+  "car emergency food water", 
+  "navigation tools car", 
+  "vehicle emergency preparation", 
+  "new driver safety tips"
+]
 categories: ["New Drivers", "Cars", "Canada Driving"]
 topics: ["New Drivers", "Driving Emergency", "Car Emergency"]
 ---

@@ -2,6 +2,28 @@
 title: "10 Common Mistakes That Can Fail Your Driving Test (and How To Avoid Them!)"
 date: "2025-03-25"
 description: "Getting your driver's license is a big milestone in independence and personal freedom. But did you know that many learners in Canada fail because of small but avoidable mistakes? From simply failing to signal  to misjudging speed limits, even the most prepared drivers can slip up under pressure."
+keywords: [
+  "common driving test mistakes", 
+  "how to avoid failing driving test", 
+  "driving test errors", 
+  "drive test fails", 
+  "failing G2 test", 
+  "G test mistakes", 
+  "canada driving test tips", 
+  "mirror check driving test", 
+  "rolling stop fail", 
+  "parallel parking mistakes", 
+  "ontario drive test tips", 
+  "oversteering driving test", 
+  "lane change mistakes", 
+  "signal properly driving test", 
+  "speeding on driving test", 
+  "observation skills driving", 
+  "parking mistakes driving test", 
+  "staying calm during driving test", 
+  "drive test rental", 
+  "drive test confidence"
+]
 ogImage: "/images/blog-1/image3.jpg"
 categories: ["Drive Test", "G2 Test", "Canada Driving"]
 topics: ["10 Common Mistakes", "Drive Test", "Drive Test Tips and Tricks"]

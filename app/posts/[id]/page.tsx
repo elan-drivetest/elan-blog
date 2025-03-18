@@ -1,3 +1,4 @@
+// Updated app/posts/[id]/page.tsx with keywords metadata
 import type { Metadata } from "next";
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
@@ -10,7 +11,7 @@ import { RecommendedPosts } from "@/app/components/ui/RecommendedPosts";
 import { TableOfContentsSidebar } from "@/app/components/wrappers/TableOfContentsSidebar";
 import ScrollProgressBar from "@/app/components/ui/ScrollProgressBar";
 import Link from "next/link";
-import JsonLd from "@/app/components/JsonLd";
+import JsonLd from '@/app/components/JsonLd'; // Assuming you've added this component
 
 export async function generateMetadata({
   params,
@@ -19,9 +20,26 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   try {
     const postData = await getPostData(params.id);
+    
+    let keywords = [
+      ...postData.categories,
+      ...postData.topics,
+      "driving test",
+      "drive test canada",
+      "ontario driving",
+      "driving tips"
+    ];
+    
+    if (postData.keywords) {
+      keywords = [...keywords, ...postData.keywords];
+    }
+    
+    const uniqueKeywords = Array.from(new Set(keywords.map(k => k.toLowerCase())));
+
     return {
       title: `${postData.title} - Elan`,
       description: postData.description,
+      keywords: uniqueKeywords,
       openGraph: {
         images: [
           {
@@ -31,6 +49,13 @@ export async function generateMetadata({
         ],
         title: postData.title,
         description: postData.description,
+        type: 'article',
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: postData.title,
+        description: postData.description,
+        images: [postData.ogImage],
       },
     };
   } catch (error) {
@@ -48,7 +73,6 @@ export default async function Post({ params }: { params: { id: string } }) {
       getSortedPostsData()
     ]);
 
-    // If no post data is found, redirect to not-found
     if (!postData) {
       notFound();
     }
@@ -61,6 +85,17 @@ export default async function Post({ params }: { params: { id: string } }) {
       }).replace(',', '');
     };
 
+    const keywordsForSchema = [
+      ...postData.categories,
+      ...postData.topics,
+      "driving test", 
+      "Canada driving"
+    ];
+    
+    if (postData.keywords) {
+      keywordsForSchema.push(...postData.keywords);
+    }
+
     const structuredData = {
       "@context": "https://schema.org",
       "@type": "BlogPosting",
@@ -68,6 +103,7 @@ export default async function Post({ params }: { params: { id: string } }) {
       "description": postData.description,
       "image": postData.ogImage,
       "datePublished": postData.date,
+      "keywords": keywordsForSchema,
       "author": {
         "@type": "Organization",
         "name": "Elan DriveTest",
@@ -84,18 +120,14 @@ export default async function Post({ params }: { params: { id: string } }) {
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": `https://blog.elandrivetestrental.ca/posts/${params.id}`
-      },
-      "keywords": [
-        ...postData.categories,
-        ...postData.topics,
-        "driving test", 
-        "Canada driving"
-      ]
+      }
     };
 
     return (
       <>
+        {/* Add JSON-LD structured data */}
         <JsonLd data={structuredData} />
+        
         <ScrollProgressBar />
         <div className="container mx-auto px-4 py-8">
           <div className="grid grid-cols-1 lg:grid-cols-14 gap-6 relative">
