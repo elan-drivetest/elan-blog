@@ -146,3 +146,5 @@ While it’s very easy to panic under stress while driving, stay calm and mainta
 **Conclusion** 
 
 Understanding the top 10 reasons for failure can help you prepare and avoid these common mistakes. From not using mirrors to parking wrong, each error can easily be avoided with practice and awareness. The key to passing your test is staying calm, keeping safety in mind and most importantly, [confidence](https://grayjaysdrivingschool.ca/how-professional-driving-schools-help-new-drivers-gain-confidence/).
+
+🚗 **Need a rental car for your drive test?** Check out **[Elan DriveTest Rental](https://www.elandrivetestrental.ca/)** for affordable and reliable rental vehicles! 🚗

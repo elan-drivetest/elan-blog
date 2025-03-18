@@ -7,9 +7,12 @@ interface TagProps {
 }
 
 export const Tag = ({ name, type, className = "" }: TagProps) => {
+  // Properly encode the name for URLs
+  const encodedName = encodeURIComponent(name.toLowerCase());
+  
   const href = type === 'category' 
-    ? `/categories/${encodeURIComponent(name.toLowerCase())}` 
-    : `/topics/${encodeURIComponent(name.toLowerCase())}`;
+    ? `/categories/${encodedName}` 
+    : `/topics/${encodedName}`;
 
   return (
     <Link 

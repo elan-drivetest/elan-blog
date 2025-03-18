@@ -7,10 +7,12 @@ Disallow: /static/
 # Allow search engines to crawl the blog content
 Allow: /posts/
 Allow: /categories/
-Allow: /tags/
+Allow: /topics/
+Allow: /sitemap/
 
-# Sitemap location
+# Sitemap locations
 Sitemap: https://blog.elandrivetestrental.ca/sitemap.xml
+Sitemap: https://blog.elandrivetestrental.ca/sitemap
 
 # Crawl delay to prevent server overload
 Crawl-delay: 10
