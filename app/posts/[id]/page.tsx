@@ -11,7 +11,7 @@ import { RecommendedPosts } from "@/app/components/ui/RecommendedPosts";
 import { TableOfContentsSidebar } from "@/app/components/wrappers/TableOfContentsSidebar";
 import ScrollProgressBar from "@/app/components/ui/ScrollProgressBar";
 import Link from "next/link";
-import JsonLd from '@/app/components/JsonLd'; // Assuming you've added this component
+import JsonLd from '@/app/components/JsonLd';
 
 export async function generateMetadata({
   params,
