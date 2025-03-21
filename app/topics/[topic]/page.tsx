@@ -2,6 +2,7 @@ import { getPostsByTopic, getAllTopics } from '@/app/lib/posts';
 import { BlogCard } from '@/app/components/ui/BlogCard';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
+import JsonLd from '@/app/components/JsonLd';
 
 interface Props {
   params: { topic: string }
@@ -55,22 +56,42 @@ export default async function TopicPage({ params }: Props) {
     notFound();
   }
 
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "headline": `${exactTopic} Articles - Elan DriveTest Blog`,
+    "description": `Browse all articles related to ${exactTopic} on Elan DriveTest Blog`,
+    "url": `https://blog.elanroadtestrental.ca/topics/${exactTopic.toLowerCase().replace(/ /g, '-')}`,
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": posts.map((post, index) => ({
+        "@type": "ListItem",
+        "position": index + 1,
+        "url": `https://blog.elanroadtestrental.ca/posts/${post.id}`,
+        "name": post.title
+      }))
+    }
+  };
+
   return (
-    <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-8">{exactTopic}</h1>
-      
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {posts.map(post => (
-          <BlogCard
-            key={post.id}
-            title={post.title}
-            date={post.date}
-            image={post.ogImage}
-            slug={post.id}
-            preview={post.description}
-          />
-        ))}
+    <>
+      <JsonLd data={structuredData} />
+      <div className="container mx-auto px-4 py-8">
+        <h1 className="text-3xl font-bold mb-8">{exactTopic}</h1>
+        
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {posts.map(post => (
+            <BlogCard
+              key={post.id}
+              title={post.title}
+              date={post.date}
+              image={post.ogImage}
+              slug={post.id}
+              preview={post.description}
+            />
+          ))}
+        </div>
       </div>
-    </div>
+    </>
   );
 }

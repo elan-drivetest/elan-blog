@@ -32,7 +32,7 @@ const Footer = () => {
           <div className="sm:col-span-2 lg:col-span-6">
             <Link href="/" className="block w-fit">
               <Image
-                src="/tagline_logo.svg"
+                src="/full_logo.svg"
                 alt="Elan Logo"
                 width={140}
                 height={140}
