@@ -5,6 +5,7 @@ import "./globals.css";
 import Header from "./components/wrappers/Header";
 import Footer from "./components/wrappers/Footer";
 import Head from "next/head";
+import { Analytics } from "@vercel/analytics/react"
 import Script from "next/script";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -60,6 +61,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <Analytics/>
       <Head>
         <meta name="google-site-verification" content="mOBvh3tt9kHEuSkqHL3c4t2X31zJQDGeRn7tCRZ7vTc" />
         <meta name="google-site-verification" content="mqvF7eCq5Eh5AIwiYZ2T26dO83i1XyIvn7x_SSoavbA" />
