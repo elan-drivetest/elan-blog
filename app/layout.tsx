@@ -61,6 +61,7 @@ export default function RootLayout({
     <html lang="en">
       <Head>
         <meta name="google-site-verification" content="mOBvh3tt9kHEuSkqHL3c4t2X31zJQDGeRn7tCRZ7vTc" />
+        <meta name="google-site-verification" content="mqvF7eCq5Eh5AIwiYZ2T26dO83i1XyIvn7x_SSoavbA" />
         <meta name="msvalidate.01" content="33D263AD066DC0AC93AE53D66D266BB4" />
       </Head>
       <body className={`${inter.className} flex flex-col min-h-screen`}>
