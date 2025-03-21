@@ -52,6 +52,22 @@ export const metadata: Metadata = {
     },
   },
   category: "blog",
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/favicon-96x96.png', sizes: '96x96', type: 'image/png' }
+    ],
+    apple: [
+      { url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }
+    ],
+    other: [
+      {
+        rel: 'manifest',
+        url: '/site.webmanifest'
+      }
+    ]
+  }
 };
 
 export default function RootLayout({
@@ -66,14 +82,6 @@ export default function RootLayout({
         <meta name="google-site-verification" content="mOBvh3tt9kHEuSkqHL3c4t2X31zJQDGeRn7tCRZ7vTc" />
         <meta name="google-site-verification" content="mqvF7eCq5Eh5AIwiYZ2T26dO83i1XyIvn7x_SSoavbA" />
         <meta name="msvalidate.01" content="33D263AD066DC0AC93AE53D66D266BB4" />
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-        <meta name="apple-mobile-web-app-title" content="Elan" />
-        <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
-        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-        <link rel="shortcut icon" href="/favicon.ico" />
-        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-        <meta name="apple-mobile-web-app-title" content="Elan" />
-        <link rel="manifest" href="/site.webmanifest" />
       </Head>
       <body className={`${inter.className} flex flex-col min-h-screen`}>
         {/* Google Analytics */}
