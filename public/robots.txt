@@ -11,8 +11,8 @@ Allow: /topics/
 Allow: /sitemap/
 
 # Sitemap locations
-Sitemap: https://blog.elandrivetestrental.ca/sitemap.xml
-Sitemap: https://blog.elandrivetestrental.ca/sitemap
+Sitemap: https://blog.elanroadtestrental.ca/sitemap.xml
+Sitemap: https://blog.elanroadtestrental.ca/sitemap
 
 # Crawl delay to prevent server overload
 Crawl-delay: 10

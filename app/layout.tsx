@@ -16,14 +16,14 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Elan Blog | Ontario Road Test and Driving Resources",
     description: "Read the latest articles, guides, and success stories about road tests and driving in Ontario.",
-    url: "https://elan-drivetest.ca/blog",
-    siteName: "Elan DriveTest Blog",
+    url: "https://elanroadtestrental.ca/",
+    siteName: "Elan Road Test Blog",
     images: [
       {
         url: "/elan-og-image.png",
         width: 1200,
         height: 630,
-        alt: "Elan DriveTest Blog",
+        alt: "Elan Road Test Blog",
       },
     ],
     locale: "en_CA",
@@ -40,13 +40,12 @@ export const metadata: Metadata = {
     follow: true,
   },
   alternates: {
-    canonical: "https://blog.elandrivetestrental.ca/",
-    canonical: "https://blog.elandrivetestrental.ca/",
+    canonical: "https://blog.elanroadtestrental.ca/",
   },
   viewport: "width=device-width, initial-scale=1",
   themeColor: "#009D6C",
   verification: {
-    google: "mOBvh3tt9kHEuSkqHL3c4t2X31zJQDGeRn7tCRZ7vTc",
+    google: ["mOBvh3tt9kHEuSkqHL3c4t2X31zJQDGeRn7tCRZ7vTc", "mqvF7eCq5Eh5AIwiYZ2T26dO83i1XyIvn7x_SSoavbA"],
     other: {
       "msvalidate.01": "33D263AD066DC0AC93AE53D66D266BB4",
     },

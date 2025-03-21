@@ -123,4 +123,4 @@ By packing these essential items in your car emergency kit, you’ll be ready fo
 
 ---
 
-🚗 **Need a rental car for your drive test?** Check out **[Elan DriveTest Rental](https://www.elandrivetestrental.ca/)** for affordable and reliable rental vehicles! 🚗
+🚗 **Need a rental car for your drive test?** Check out **[Elan DriveTest Rental](https://www.elanroadtestrental.ca/)** for affordable and reliable rental vehicles! 🚗

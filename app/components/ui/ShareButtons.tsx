@@ -13,7 +13,7 @@ export const ShareButtons = ({ url }: ShareButtonsProps) => {
   const [showMobileShare, setShowMobileShare] = useState(false);
   
   // Construct full URL
-  const fullUrl = `https://blog.elandrivetestrental.ca${url}`;
+  const fullUrl = `https://blog.elanroadtestrental.ca${url}`;
 
   const copyToClipboard = async () => {
     try {

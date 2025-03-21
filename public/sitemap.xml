@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Main pages -->
   <url>
-    <loc>https://blog.elandrivetestrental.ca/</loc>
+    <loc>https://blog.elanroadtestrental.ca/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/categories</loc>
+    <loc>https://blog.elanroadtestrental.ca/categories</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/search</loc>
+    <loc>https://blog.elanroadtestrental.ca/search</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/privacy</loc>
+    <loc>https://blog.elanroadtestrental.ca/privacy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/terms</loc>
+    <loc>https://blog.elanroadtestrental.ca/terms</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/sitemap</loc>
+    <loc>https://blog.elanroadtestrental.ca/sitemap</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <!-- Blog Posts -->
   <url>
-    <loc>https://blog.elandrivetestrental.ca/posts/10-Common-Mistakes-That-Can-Fail-Your-Driving-Test-(and-How-To-Avoid-Them!)</loc>
+    <loc>https://blog.elanroadtestrental.ca/posts/10-Common-Mistakes-That-Can-Fail-Your-Driving-Test-(and-How-To-Avoid-Them!)</loc>
     <lastmod>2025-03-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/posts/Ultimate-Beginners-Guide-To-Canadian-Road-Signs-And-Traffic-Regulations</loc>
+    <loc>https://blog.elanroadtestrental.ca/posts/Ultimate-Beginners-Guide-To-Canadian-Road-Signs-And-Traffic-Regulations</loc>
     <lastmod>2024-11-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/posts/Tips-For-Mastering-Parallel-And-Angle-Parking</loc>
+    <loc>https://blog.elanroadtestrental.ca/posts/Tips-For-Mastering-Parallel-And-Angle-Parking</loc>
     <lastmod>2025-03-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/posts/What-to-Pack-in-Your-Car-Emergency-Kit-A-Guide-for-New-Drivers!</loc>
+    <loc>https://blog.elanroadtestrental.ca/posts/What-to-Pack-in-Your-Car-Emergency-Kit-A-Guide-for-New-Drivers!</loc>
     <lastmod>2025-03-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/posts/Everything-You-Need-to-Know-to-Get-Your-G1-License-2025</loc>
+    <loc>https://blog.elanroadtestrental.ca/posts/Everything-You-Need-to-Know-to-Get-Your-G1-License-2025</loc>
     <lastmod>2025-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/posts/Mastering-Driving-in-Canadas-Ever-Changing-Weather-Tips-for-Safe-Driving-in-All-Conditions</loc>
+    <loc>https://blog.elanroadtestrental.ca/posts/Mastering-Driving-in-Canadas-Ever-Changing-Weather-Tips-for-Safe-Driving-in-All-Conditions</loc>
     <lastmod>2025-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/posts/Everything-You-Need-to-Know-to-Get-Your-G1-License</loc>
+    <loc>https://blog.elanroadtestrental.ca/posts/Everything-You-Need-to-Know-to-Get-Your-G1-License</loc>
     <lastmod>2025-03-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -83,114 +83,114 @@
 
   <!-- Categories -->
   <url>
-    <loc>https://blog.elandrivetestrental.ca/categories/drive%20test</loc>
+    <loc>https://blog.elanroadtestrental.ca/categories/drive%20test</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/categories/g2%20test</loc>
+    <loc>https://blog.elanroadtestrental.ca/categories/g2%20test</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/categories/canada%20driving</loc>
+    <loc>https://blog.elanroadtestrental.ca/categories/canada%20driving</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/categories/g1%20test</loc>
+    <loc>https://blog.elanroadtestrental.ca/categories/g1%20test</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/categories/drive%20test%20beginner</loc>
+    <loc>https://blog.elanroadtestrental.ca/categories/drive%20test%20beginner</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/categories/knowledge%20test</loc>
+    <loc>https://blog.elanroadtestrental.ca/categories/knowledge%20test</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/categories/new%20drivers</loc>
+    <loc>https://blog.elanroadtestrental.ca/categories/new%20drivers</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/categories/cars</loc>
+    <loc>https://blog.elanroadtestrental.ca/categories/cars</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/categories/safe%20driving</loc>
+    <loc>https://blog.elanroadtestrental.ca/categories/safe%20driving</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Topics -->
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/10%20common%20mistakes</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/10%20common%20mistakes</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/drive%20test</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/drive%20test</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/drive%20test%20tips%20and%20tricks</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/drive%20test%20tips%20and%20tricks</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/knowledge%20test%20tips%20and%20tricks</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/knowledge%20test%20tips%20and%20tricks</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/canadian%20traffic%20regulations</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/canadian%20traffic%20regulations</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/parallel%20parking</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/parallel%20parking</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/angle%20parking</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/angle%20parking</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/new%20drivers</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/new%20drivers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/driving%20emergency</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/driving%20emergency</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/car%20emergency</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/car%20emergency</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/canada%20weather</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/canada%20weather</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/g1%20study%20materials</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/g1%20study%20materials</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://blog.elandrivetestrental.ca/topics/beginner%20drivers</loc>
+    <loc>https://blog.elanroadtestrental.ca/topics/beginner%20drivers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

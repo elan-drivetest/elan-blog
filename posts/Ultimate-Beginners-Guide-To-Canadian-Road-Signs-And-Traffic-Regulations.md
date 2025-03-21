@@ -477,4 +477,4 @@ In addition to understanding the signs, learner/beginner drivers must learn the 
 **Conclusion**  
 Mastering Canadian road signs and traffic regulations is key to becoming a confident and responsible driver. Understanding the meaning of different road signs, following key traffic rules, and applying safe driving habits will help ensure not only your safety but also the safety of others on the road. By staying informed, practicing regularly, and being mindful of your surroundings, you can navigate Canada’s roads with ease. Remember, responsible driving isn’t just about passing a test—it’s about making the roads safer for everyone.
 
-🚗 **Need a rental car for your drive test?** Check out **[Elan DriveTest Rental](https://www.elandrivetestrental.ca/)** for affordable and reliable rental vehicles! 🚗
+🚗 **Need a rental car for your drive test?** Check out **[Elan DriveTest Rental](https://www.elanroadtestrental.ca/)** for affordable and reliable rental vehicles! 🚗

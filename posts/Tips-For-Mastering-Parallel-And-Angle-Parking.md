@@ -85,4 +85,4 @@ Angle parking is commonly used in parking lots and designated street parking zon
 
 Mastering parallel and angle parking in Canada takes practice, patience, and awareness. By following these **expert-backed parking tips**, you can confidently park anywhere, whether on a busy street or in a crowded lot. For more driving test tips, explore our **[complete G2 test preparation guide](https://drivetest.ca/tests/road-tests-cars/)**.
 
-🚗 **Need a rental car for your drive test?** Check out **[ElandriveTestRental](https://www.elandrivetestrental.ca/)** for affordable and reliable rental vehicles! 🚗
+🚗 **Need a rental car for your drive test?** Check out **[ElandriveTestRental](https://www.elanroadtestrental.ca/)** for affordable and reliable rental vehicles! 🚗

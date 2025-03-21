@@ -88,7 +88,7 @@ The knowledge test consists of two sections:
 
 You need to score at least **80%** in each section to pass (32/40 and 16/20).
 
-Here's a [Guide To Canadian Road Signs and Traffic Laws](https://blog.elandrivetestrental.ca/posts/Ultimate-Beginners-Guide-To-Canadian-Road-Signs-And-Traffic-Regulations)
+Here's a [Guide To Canadian Road Signs and Traffic Laws](https://blog.elanroadtestrental.ca/posts/Ultimate-Beginners-Guide-To-Canadian-Road-Signs-And-Traffic-Regulations)
 
 The test is available in multiple languages and is taken on a touchscreen computer at DriveTest Centres.
 
@@ -145,7 +145,7 @@ Total time: Minimum of 20 months (with driver education) or 24 months (without).
 
 - **Read Carefully**: Some questions may have tricky wording designed to test your attention to detail.
 
-- **Know the Signs**: Many test-takers struggle with traffic signs. Review our [ultimate guide to road signs](https://blog.elandrivetestrental.ca/posts/Ultimate-Beginners-Guide-To-Canadian-Road-Signs-And-Traffic-Regulations) to master this section.
+- **Know the Signs**: Many test-takers struggle with traffic signs. Review our [ultimate guide to road signs](https://blog.elanroadtestrental.ca/posts/Ultimate-Beginners-Guide-To-Canadian-Road-Signs-And-Traffic-Regulations) to master this section.
 
 - **Create Flashcards**: Make flashcards for road signs and rules that are difficult to remember.
 
@@ -192,6 +192,6 @@ Remember to follow all G1 restrictions while practicing to gain experience for t
 3. **Keep track of your driving hours** in different conditions (day, night, rain, etc.)
 4. **Start preparing for your G2 road test** about 2-3 months before you're eligible to take it
 
-For more information about the next steps in your driving journey, check out our guide on [How to Ace Your G2 Road Test](https://blog.elandrivetestrental.ca/posts/) and [What to Expect During Your First Driving Lessons](https://www.youngsinsurance.ca/blog/what-to-expect-from-your-first-driving-lesson).
+For more information about the next steps in your driving journey, check out our guide on [How to Ace Your G2 Road Test](https://blog.elanroadtestrental.ca/posts/) and [What to Expect During Your First Driving Lessons](https://www.youngsinsurance.ca/blog/what-to-expect-from-your-first-driving-lesson).
 
 Happy driving and good luck with your G1 test! 🚙✨

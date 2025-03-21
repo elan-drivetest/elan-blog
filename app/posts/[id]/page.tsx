@@ -107,19 +107,19 @@ export default async function Post({ params }: { params: { id: string } }) {
       "author": {
         "@type": "Organization",
         "name": "Elan DriveTest",
-        "url": "https://elandrivetestrental.ca"
+        "url": "https://elanroadtestrental.ca"
       },
       "publisher": {
         "@type": "Organization",
         "name": "Elan DriveTest",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://blog.elandrivetestrental.ca/icon_logo.svg"
+          "url": "https://blog.elanroadtestrental.ca/icon_logo.svg"
         }
       },
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": `https://blog.elandrivetestrental.ca/posts/${params.id}`
+        "@id": `https://blog.elanroadtestrental.ca/posts/${params.id}`
       }
     };
 
@@ -186,7 +186,7 @@ export default async function Post({ params }: { params: { id: string } }) {
                       <h3 className="mb-3 text-2xl font-bold text-gray-900">Pass Your Road Test with Confidence</h3>
                       <p className="mb-4 text-gray-600">Book your road test <b>car</b> and <b>instructor</b> package with Elan. Professional vehicles, experienced instructors, and free lesson perks available.</p>
                       <div className="flex flex-wrap gap-3 mt-6">
-                        <Link target="_blank" href="https://www.elandrivetestrental.ca">
+                        <Link target="_blank" href="https://www.elanroadtestrental.ca">
                           <span className="inline-flex items-center justify-center rounded-lg bg-green-500 px-5 py-3 text-sm font-medium text-white transition-colors hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2">
                             Book Now
                           </span>

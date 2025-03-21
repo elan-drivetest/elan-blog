@@ -55,13 +55,13 @@ export default async function CategoryPage({ params }: Props) {
     "@type": "CollectionPage",
     "headline": `${exactCategory} Articles - Elan DriveTest Blog`,
     "description": `Browse all articles related to ${exactCategory} on Elan DriveTest Blog`,
-    "url": `https://blog.elandrivetestrental.ca/categories/${encodeURIComponent(exactCategory.toLowerCase())}`,
+    "url": `https://blog.elanroadtestrental.ca/categories/${encodeURIComponent(exactCategory.toLowerCase())}`,
     "mainEntity": {
       "@type": "ItemList",
       "itemListElement": posts.map((post, index) => ({
         "@type": "ListItem",
         "position": index + 1,
-        "url": `https://blog.elandrivetestrental.ca/posts/${post.id}`,
+        "url": `https://blog.elanroadtestrental.ca/posts/${post.id}`,
         "name": post.title
       }))
     }
