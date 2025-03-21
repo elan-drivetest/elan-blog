@@ -21,20 +21,20 @@ export async function generateMetadata(
 export async function generateStaticParams() {
   const categories = await getAllCategories();
   return categories.map((category) => ({
-    category: encodeURIComponent(category.toLowerCase()),
+    category: category.toLowerCase().replace(/ /g, '-'),
   }));
 }
 
 export default async function CategoryPage({ params }: Props) {
   // Properly decode the URL parameter
-  const category = decodeURIComponent(params.category);
+  const categoryParam = decodeURIComponent(params.category).replace(/-/g, ' ');
   
   // Fetch posts with case-insensitive matching
   const allCategories = await getAllCategories();
   
   // Find the correct case version of the category
   const exactCategory = allCategories.find(
-    cat => cat.toLowerCase() === category.toLowerCase()
+    cat => cat.toLowerCase() === categoryParam.toLowerCase()
   );
   
   // If we can't find the category, return 404
@@ -55,7 +55,7 @@ export default async function CategoryPage({ params }: Props) {
     "@type": "CollectionPage",
     "headline": `${exactCategory} Articles - Elan DriveTest Blog`,
     "description": `Browse all articles related to ${exactCategory} on Elan DriveTest Blog`,
-    "url": `https://blog.elanroadtestrental.ca/categories/${encodeURIComponent(exactCategory.toLowerCase())}`,
+    "url": `https://blog.elanroadtestrental.ca/categories/${exactCategory.toLowerCase().replace(/ /g, '-')}`,
     "mainEntity": {
       "@type": "ItemList",
       "itemListElement": posts.map((post, index) => ({
