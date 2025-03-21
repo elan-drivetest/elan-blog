@@ -5,6 +5,7 @@ import "./globals.css";
 import Header from "./components/wrappers/Header";
 import Footer from "./components/wrappers/Footer";
 import Head from "next/head";
+import Script from "next/script";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -40,6 +41,7 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: "https://blog.elandrivetestrental.ca/",
+    canonical: "https://blog.elandrivetestrental.ca/",
   },
   viewport: "width=device-width, initial-scale=1",
   themeColor: "#009D6C",
@@ -65,6 +67,23 @@ export default function RootLayout({
         <meta name="msvalidate.01" content="33D263AD066DC0AC93AE53D66D266BB4" />
       </Head>
       <body className={`${inter.className} flex flex-col min-h-screen`}>
+        {/* Google Analytics */}
+        <Script
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-4B7JYKND6E"
+        />
+        <Script
+          id="google-analytics"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-4B7JYKND6E');
+            `,
+          }}
+        />
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />
