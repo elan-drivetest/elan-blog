@@ -1,6 +1,6 @@
 ---
 title: "Ontario Driving Trends 2025: What Every New Driver Should Know"
-date: "2025-04-12"
+date: "2025-04-13"
 description: "Thinking about taking your G2 or G test this year? Curious how safe Ontario roads really are? In this article we'll go through the most recent stats available (from the Ministry of Transportation) to give you an overview of Ontario's driving scene in 2025—from pass rates to collision data and how new drivers are doing on the road."
 ogImage: "/images/blog-8/image1.png"
 keywords: ["G2 pass rates", "G test statistics", "Ontario driving test", "road test preparation", "Ontario collision data", "DriveTest centre difficulty", "new driver statistics", "G2 test tips", "Ontario driver licensing", "driving test failure reasons", "hardest DriveTest centres", "Ontario road safety", "young driver accidents", "G test preparation", "Mississauga driving test", "Brampton road test", "Ontario Ministry of Transportation stats", "first-time driver success", "Ontario licensed drivers 2025", "distracted driving statistics"]
