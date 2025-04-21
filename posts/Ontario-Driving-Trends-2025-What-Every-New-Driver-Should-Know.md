@@ -101,7 +101,7 @@ Tip: Check your test centre's layout and plan ahead to avoid surprises.
 ### 
 
 "If there's one thing you can totally control on test day—it's the car you show up in.  
-[Elan](https://blog.elandrivetestrental.ca/) provides road-test-ready vehicles that meet every requirement at Ontario DriveTest Centres."
+[Elan](https://blog.elanroadtestrental.ca/) provides road-test-ready vehicles that meet every requirement at Ontario DriveTest Centres."
 
 With Elan, you get:
 
@@ -112,4 +112,4 @@ With Elan, you get:
 
 Whether you're testing in Brampton, Scarborough, or anywhere in the GTA—Elan helps you show up ready, confident, and fully covered.
 
-➡️[Book your Elan car today.](https://blog.elandrivetestrental.ca/)
+➡️[Book your Elan car today.](https://elanroadtestrental.ca/)

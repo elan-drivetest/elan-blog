@@ -29,7 +29,7 @@ Check for:
 
 You can find the full list on the [DriveTest website](https://drivetest.ca).
 
-**Tip**: If you’re unsure about your car meeting the criteria, renting an affordable test-ready vehicle through [Elan](https://blog.elandrivetestrental.ca/) ensures your ride is 100% road-test compliant. 
+**Tip**: If you’re unsure about your car meeting the criteria, renting an affordable test-ready vehicle through [Elan](https://blog.elanroadtestrental.ca/) ensures your ride is 100% road-test compliant. 
 
 ---
 
@@ -120,4 +120,4 @@ What you get with services like Elan:
 
 * *Peace of mind on a big day*                                                
 
-[Book your test-ready vehicle with Elan](https://blog.elandrivetestrental.ca/) and focus on your driving—not the checklist. 
+[Book your test-ready vehicle with Elan](https://elanroadtestrental.ca/) and focus on your driving—not the checklist. 

@@ -192,6 +192,6 @@ Remember to follow all G1 restrictions while practicing to gain experience for t
 3. **Keep track of your driving hours** in different conditions (day, night, rain, etc.)
 4. **Start preparing for your G2 road test** about 2-3 months before you're eligible to take it
 
-For more information about the next steps in your driving journey, check out our guide on [How to Ace Your G2 Road Test](https://blog.elanroadtestrental.ca/posts/) and [What to Expect During Your First Driving Lessons](https://www.youngsinsurance.ca/blog/what-to-expect-from-your-first-driving-lesson).
+For more information about the next steps in your driving journey, check out our guide on [How to Ace Your G2 Road Test](https://blog.elanroadtestrental.ca/) and [What to Expect During Your First Driving Lessons](https://www.youngsinsurance.ca/blog/what-to-expect-from-your-first-driving-lesson).
 
 Happy driving and good luck with your G1 test! 🚙✨

@@ -115,8 +115,8 @@ Insurance fraud might feel like a distant issue until it directly impacts your w
 
 **Related Posts About This Blog For More Knowledge:**
 
-* [What to Pack in Your Car Emergency kit(a guide for beginners)](https://blog.elandrivetestrental.ca/posts/What-to-Pack-in-Your-Car-Emergency-Kit-A-Guide-for-New-Drivers!)
+* [What to Pack in Your Car Emergency kit(a guide for beginners)](https://blog.elanroadtestrental.ca/posts/What-to-Pack-in-Your-Car-Emergency-Kit-A-Guide-for-New-Drivers!)
 
-* [Top 10 Mistakes to Avoid in Your Road Test](https://blog.elandrivetestrental.ca/posts/10-Common-Mistakes-That-Can-Fail-Your-Driving-Test-\(and-How-To-Avoid-Them!\))
+* [Top 10 Mistakes to Avoid in Your Road Test](https://blog.elanroadtestrental.ca/posts/10-Common-Mistakes-That-Can-Fail-Your-Driving-Test-\(and-How-To-Avoid-Them!\))
 
-* [Everything you need to know to get your G1 licence](https://blog.elandrivetestrental.ca/posts/Everything-You-Need-to-Know-to-Get-Your-G1-License)
+* [Everything you need to know to get your G1 licence](https://blog.elanroadtestrental.ca/posts/Everything-You-Need-to-Know-to-Get-Your-G1-License)
