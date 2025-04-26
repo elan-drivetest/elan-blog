@@ -125,3 +125,15 @@ export async function getAllPostIds() {
     id: fileName.replace(/\.md$/, '')
   }));
 }
+
+export async function getPostKeywords(id: string): Promise<string[]> {
+  try {
+    const fullPath = path.join(postsDirectory, `${id}.md`);
+    const fileContents = await fs.promises.readFile(fullPath, 'utf8');
+    const matterResult = matter(fileContents);
+    return matterResult.data.keywords || [];
+  } catch (error) {
+    console.error(`Error getting keywords for post ${id}:`, error);
+    return [];
+  }
+}
