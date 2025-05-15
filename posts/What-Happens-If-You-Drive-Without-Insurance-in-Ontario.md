@@ -24,7 +24,7 @@ Under Ontario's Compulsory Automobile Insurance Act, operating a vehicle without
 
 These penalties are designed to deter uninsured driving and protect all road users.​
 
-![](/images/blog-16/image1.jpg)
+![](/images/blog-16/image1.png)
 
 ## **Financial Implications**
 

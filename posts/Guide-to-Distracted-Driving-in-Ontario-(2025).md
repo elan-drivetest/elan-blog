@@ -2,15 +2,11 @@
 title: "Guide to Distracted Driving in Ontario (2025)"
 date: "2025-04-18"
 description: "Distracted driving remains one of the leading causes of collisions in Ontario. Learn about the latest laws, penalties, and prevention tips for both new and experienced drivers to stay safe and legal on the road."
-ogImage: "/images/blog-10/image1.jpg"
+ogImage: "/images/blog-10/image1.webp"
 keywords: ["distracted driving Ontario", "Ontario driving laws 2025", "phone use while driving penalties", "G2 driver distraction rules", "Ontario traffic fines", "distracted driving statistics", "texting and driving laws", "Ontario driver penalties", "novice driver restrictions", "distracted driving prevention", "driver demerit points", "road safety Ontario", "G1 driver regulations", "license suspension Ontario", "hands-free driving tips", "distracted driving fines", "MTO driving regulations", "Ontario road safety stats", "legal driving Ontario", "driver safety tips"]
 categories: ["Ontario Driving", "Road Safety", "Legal Requirements", "New Drivers"]
 topics: ["Distracted Driving", "Ontario Traffic Laws", "Driver Penalties", "Safety Tips"]
 ---
-
-# Guide to Distracted Driving in Ontario (2025)
-
-![Distracted driving image](/images/blog-10/image1.jpg)
 
 **What Every Driver Needs to Know to Stay Safe & Legal**
 

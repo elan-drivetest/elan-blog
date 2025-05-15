@@ -2,15 +2,11 @@
 title: "How to Pass Your G2 Drive-Test on the First Try (Short Guide for Ontario Drivers)"
 date: "2025-04-20"
 description: "Looking to pass your G2 road test in Ontario on your first attempt? This comprehensive guide covers everything from test requirements to practice skills, with expert tips to help you succeed on test day."
-ogImage: "/images/blog-12/image1.jpg"
+ogImage: "/images/blog-12/image1.png"
 keywords: ["G2 road test tips", "pass G2 first try", "Ontario driving test", "G2 test preparation", "DriveTest centre Ontario", "G2 test requirements", "parallel parking tips", "blind spot checking", "G2 common mistakes", "G2 test vehicle", "Ontario driver licence", "road test anxiety", "G2 practice skills", "three-point turn", "DriveTest approved car", "morning test booking", "G2 road test checklist", "Ontario G1 exit test", "driving test confidence", "G2 documentation"]
 categories: ["Drive Test", "G2 Test", "Ontario Driving", "New Drivers"]
 topics: ["G2 Test Preparation", "Road Test Tips", "Test Day Checklist", "Vehicle Requirements"]
 ---
-
-# How to Pass Your G2 Drive-Test on the First Try (Short Guide for Ontario Drivers)
-
-![G2 Road Test](/images/blog-12/image1.jpg)
 
 Preparing for your G2 drive test in Ontario? You're not alone—and yes, it's totally possible to pass on your first try with the right prep, mindset, and yes… the right car. This guide walks you through everything you need to know to pass your G2 road test—from what to practice to what to bring along in your test.
 

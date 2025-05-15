@@ -2,7 +2,7 @@
 title: "How to Buy a Car in Canada as a New Immigrant (Guide for 2025)"
 date: "2025-04-19"
 description: "A complete guide for newcomers to Canada looking to purchase their first vehicle. Learn about licensing requirements, financing options without Canadian credit history, and all the paperwork you'll need."
-ogImage: "/images/blog-11/image1.jpg"
+ogImage: "/images/blog-11/image1.webp"
 keywords: ["new immigrant car buying", "Canadian auto loan newcomers", "used car Ontario newcomer", "car buying without credit history", "international driver Ontario", "Canada vehicle registration", "newcomer auto insurance", "ServiceOntario vehicle", "UVIP car purchase", "used car paperwork Canada", "newcomer financing options", "car safety certificate", "buying car work permit", "permanent resident vehicle", "international student car", "Ontario driver license exchange", "Canadian vehicle ownership", "newcomer car tips", "car buying without credit", "Ontario vehicle registration"]
 categories: ["Newcomers to Canada", "Vehicle Purchase", "Ontario Driving", "Financial Planning"]
 topics: ["Immigrant Resources", "Car Buying Process", "Driver Documentation", "Auto Financing"]
@@ -24,7 +24,7 @@ Before buying a car, make sure you can legally drive in Ontario.
 
 Check how to get licensed here: [Ontario Driver's Licence Info](https://www.ontario.ca/page/drivers-licence)
 
-![Person holding car keys](https://images.unsplash.com/photo-1557598628-bdd7d0767917?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Person holding car keys](https://t3.ftcdn.net/jpg/03/01/85/32/360_F_301853269_HnKJ2u86DdFqJl2HzXGcVkJIKMjt0jA8.jpg)
 
 **Step 2: Decide Between New or Used**
 

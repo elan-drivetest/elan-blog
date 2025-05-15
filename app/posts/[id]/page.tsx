@@ -164,7 +164,7 @@ export default async function Post({ params }: { params: { id: string } }) {
                       src={postData.ogImage}
                       alt={postData.title}
                       fill
-                      className="object-cover"
+                      className="object-contain md:object-cover"
                       priority
                     />
                   </div>

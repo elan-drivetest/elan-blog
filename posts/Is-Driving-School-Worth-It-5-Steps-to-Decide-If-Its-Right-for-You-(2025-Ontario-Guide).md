@@ -30,7 +30,7 @@ Driving school isn't just about learning how to turn and park—it can also offe
 
 "[GrayJays Driving School](https://grayjaysdrivingschool.ca/) is a top choice in Ontario for new drivers. They offer patient, professional instruction and flexible scheduling—ideal if you're balancing school or work.
 
-![Professional driving instructor giving lesson](https://www.valleydrivingschool.com/files/Image/Blog/2022/Qualities%20to%20Seek%20Out%20in%20a%20Driving%20Instructor/driving%20instructor%202.jpg)
+![Professional driving instructor giving lesson](https://awareness-days.co.uk/wp-content/uploads/2024/02/Driving-Instructors-Day.webp)
 
 ### **Step 2: Ask Yourself — How Comfortable Are You Behind the Wheel?**
 
