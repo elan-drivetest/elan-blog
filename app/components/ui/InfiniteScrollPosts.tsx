@@ -102,7 +102,7 @@ export default function InfiniteScrollPosts({ posts }: InfiniteScrollPostsProps)
       {/* No more posts indicator */}
       {!hasMore && displayedPosts.length > 0 && displayedPosts.length < posts.length && (
         <div className="text-center mt-8 py-4">
-          <p className="text-gray-500">You've reached the end! No more posts to load.</p>
+          <p className="text-gray-500">{"You've reached the end! No more posts to load."}</p>
         </div>
       )}
 
