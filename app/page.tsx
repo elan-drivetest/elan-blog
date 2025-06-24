@@ -1,6 +1,6 @@
 import { type PostData, getSortedPostsData } from "./lib/posts";
-import { BlogCard } from "./components/ui/BlogCard";
 import Sidebar from "./components/wrappers/Sidebar";
+import InfiniteScrollPosts from "./components/ui/InfiniteScrollPosts";
 
 export default async function Home() {
   console.log('Starting Home page render');
@@ -18,22 +18,7 @@ export default async function Home() {
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
         {/* Main Content */}
         <div className="lg:col-span-8">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {Array.isArray(allPostsData) ? (
-              allPostsData.map(post => (
-                <BlogCard
-                  key={post.id}
-                  title={post.title}
-                  date={post.date}
-                  image={post.ogImage || '/images/default-blog.jpg'}
-                  slug={post.id}
-                  preview={post.description}
-                />
-              ))
-            ) : (
-              <div>No posts available</div>
-            )}
-          </div>
+          <InfiniteScrollPosts posts={allPostsData} />
         </div>
 
         {/* Sidebar */}
